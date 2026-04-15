@@ -12,6 +12,7 @@ well and this is my most ambitious project.
 - 4 spiral vending slots
 - dispenses items on demand
 - can give rewards automatically
+- screen where it shows item selection
 - ESP32 controlled
 - compact desktop size
 - modular design for future upgrades
